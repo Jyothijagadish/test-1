@@ -8,7 +8,7 @@ pipeline{
        stages {
         stage('git-checkout'){
            steps {
-               git branch: 'version-1', url:'https://github.com/ManojKRISHNAPPA/microdegree-IT-batch-2025.git'
+               git branch: 'version-1', url: 'https://github.com/Jyothijagadish/test-1.git'
                  }
               }
 
